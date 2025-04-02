@@ -1,4 +1,4 @@
-Hello there 👋, I'm @parawanderer and sometimes I do things...
+Hello there 👋,
 
 I'm a generalist with many interests and end up dabbling in many things. _Sometimes_ those things end up being useful.
 
