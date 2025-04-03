@@ -1,4 +1,4 @@
-Hello there 👋, I am a generalist with many interests and I often end up dabbling in many things. 
+Hello there 👋, I am a generalist SWE with many interests and I often end up dabbling in many things. 
 
 _Sometimes_ those things end up being useful.
 
