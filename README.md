@@ -1,4 +1,4 @@
-Hello there 👋, I am a Software Engineer who likes dabbling in Research-oriented directions, among doing some other things.
+Hello there 👋, I am a software engineer with research interests, among doing some other things.
 
 _Sometimes_ those things end up being useful.
 
