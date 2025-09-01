@@ -1,6 +1,6 @@
 hello there 👋, i am a software engineer with research interests.
 
-_sometimes_ i make things that are useful.
+_sometimes_ i make things that are interesting 
 
 
 ✉️ Contact me: [shane@wander.dev](mailto:shane@wander.dev)
