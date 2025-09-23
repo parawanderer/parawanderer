@@ -1,4 +1,4 @@
-hello there 👋, i am a swe with research interests in compute.
+hello there 👋, i am a swe (7yoe) with research interests in compute.
 
 _sometimes_ i make things that are interesting. occasionally i'll share things that are useful. 
 
