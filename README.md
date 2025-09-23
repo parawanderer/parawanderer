@@ -1,8 +1,8 @@
-hello there 👋, i am a software engineer with research interests.
+hello there 👋, i am a swe with research interests in compute.
 
-_sometimes_ i make things that are interesting 
+_sometimes_ i make things that are interesting. occasionally i'll share things that are useful.
 
 
-✉️ Contact me: [shane@wander.dev](mailto:shane@wander.dev)
+✉️ contact me: [shane@wander.dev](mailto:shane@wander.dev)
 
-🌐 Personal Site: [wander.dev](https://wander.dev)
+🌐 personal site: [wander.dev](https://wander.dev)
