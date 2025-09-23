@@ -1,6 +1,8 @@
 hello there 👋, i am a swe with research interests in compute.
 
-_sometimes_ i make things that are interesting. occasionally i'll share things that are useful.
+_sometimes_ i make things that are interesting. occasionally i'll share things that are useful. 
+
+foss software is neat. 
 
 
 ✉️ contact me: [shane@wander.dev](mailto:shane@wander.dev)
