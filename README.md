@@ -1,8 +1,8 @@
-hello there 👋, i am a swe (7yoe) with research interests in compute.
+hello there 👋, i am a swe (7yoe) with research interests in ML, QC, optimisation and the overlap.
 
 _sometimes_ i make things that are interesting. occasionally i'll share things that are useful. 
 
-foss software is neat. 
+FOSS software is neat. 
 
 
 ✉️ contact me: [shane@wander.dev](mailto:shane@wander.dev)
